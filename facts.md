@@ -1,9 +1,8 @@
-# LastName, FirstName (replace with yours)
-List two truths and one lie about you below
-
-1. 
-1.
-1.
+# Funk, Kelby 
 
 
-Bonus (+1), add your screen shot as an image here.
+
+I was deaf when I was born.
+My brother knocked me out with a metal baseball bat.
+I watched a styx concernt in Casper when I was in middle school.
+![Completed Screenshot](proof/completed page.png)
